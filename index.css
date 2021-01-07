@@ -26,6 +26,7 @@
 .image-one{
   background-image: url("images/phone-2.a0e481df3d808370cf1d.jpg");
   background-attachment: fixed;
+  background-size: 110%;
   height: 600px;
 
 }
@@ -94,4 +95,8 @@ form{
 form input{
 	position: relative;
 	z-index: -1;
+}
+.content{
+	margin-top: 15%;
+	color: white;
 }
