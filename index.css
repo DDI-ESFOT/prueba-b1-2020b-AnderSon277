@@ -2,9 +2,7 @@
 	max-width: 20%;
     height: auto;
 }
-.row{
-	margin-bottom: 15%;
-}
+
 .phone-1{
     max-width: 55%;
     margin: -8% 0px auto 15%;
@@ -25,12 +23,19 @@
 }
 .image-one{
   background-image: url("images/phone-2.a0e481df3d808370cf1d.jpg");
-  background-attachment: fixed;
-  background-size: 110%;
-  height: 600px;
+}
+.image-two{
+  background-image: url("images/taxi.a74ffe08987564e2b9fd.jpg");
 
 }
+.img-attachmet{
+	background-attachment: fixed;
+	background-size: 110%;
+	height: 600px;
+	margin: 0px auto;
+	width: 100%;
 
+}
 .btn-warning{
 	border-radius: 30px;
 	border: 3px solid black;
@@ -41,6 +46,8 @@
 }
 .section-blue{
 	background-color: #04478a;
+	width: 100%;
+    margin-left: 0%;
 }
 .section-blue img{
 	max-width: 100%;
