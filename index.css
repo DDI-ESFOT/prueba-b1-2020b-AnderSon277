@@ -26,8 +26,10 @@
 .image-one{
   background-image: url("images/phone-2.a0e481df3d808370cf1d.jpg");
   background-attachment: fixed;
-  overflow: scroll;
+  height: 600px;
+
 }
+
 .btn-warning{
 	border-radius: 30px;
 	border: 3px solid black;
