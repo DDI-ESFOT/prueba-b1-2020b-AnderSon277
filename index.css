@@ -1,0 +1,86 @@
+.logo{
+	max-width: 20%;
+    height: auto;
+}
+.row{
+	margin-bottom: 15%;
+}
+.phone-1{
+    max-width: 55%;
+    margin: -8% 0px auto 15%;
+}
+.store{
+	max-width: 40%;
+}
+.stores{
+	display: flex;
+}
+.stores img{
+	margin: 5% auto auto 0px;
+}
+
+.display-3{
+	font-size: 2.5rem;
+    max-width: 45%;
+}
+.image-one{
+  background-image: url("images/phone-2.a0e481df3d808370cf1d.jpg");
+  background-attachment: fixed;
+}
+.btn-warning{
+	border-radius: 30px;
+	border: 3px solid black;
+	width: 85%;
+	margin-top: 20%;
+	color: white;
+	background-color: #f09801;
+}
+.section-blue{
+	background-color: #04478a;
+}
+.section-blue img{
+	max-width: 100%;
+	margin: 5% auto;
+}
+.btn-blue{
+	background-color: #04478a;
+	width: 35%;
+}
+.btn-blue img{
+	max-width: 100%;
+    margin: 20%;
+}
+.btn-content{
+	display: flex;
+	margin-left: 20%;
+    margin-top: 10%;
+}
+.btn-primary{
+	height: 100%;
+    margin-top: 10%;
+    width: 55%;
+    margin-left: -10%;
+    border-radius: 40px;
+    background-color: #04478a;
+    border-color: white;
+    z-index: -1;
+    font-size: 1.5rem;
+}
+.futter{
+	margin: 5% auto;
+}
+.col-1{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: 5%;
+}
+.futter img{
+	max-height: 20%;
+}
+h5{
+	color: white;
+	display: flex;
+	justify-content: justify;
+	width:30%;
+	font-size: 1rem;
+}
